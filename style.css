@@ -8,20 +8,21 @@ nav {
 /* Style header dengan background abu-abu dan beberapa padding */
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #198754;
   padding: 20px 10px;
 }
 
 /* Style Link header */
 .header a {
   float: left;
-  color: black;
+  color: white;
   text-align: center;
   padding: 12px;
   text-decoration: none;
   font-size: 18px;
   line-height: 25px;
   border-radius: 4px;
+  background-color: #198754;
 }
 
 /* Style pada link logo (perhatikan bahwa kita menetapkan nilai yang sama dari line-height dan font-size untuk mencegah header meningkat ketika font menjadi lebih besar */
@@ -39,7 +40,7 @@ nav {
 /* Style link active/current */
 .header a.active {
   background-color: dodgerblue;
-  color: white;
+  color:  #04AA6D;
 }
 
 /* Layangkan bagian link ke kanan */
