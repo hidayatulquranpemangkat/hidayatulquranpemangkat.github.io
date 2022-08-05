@@ -33,8 +33,8 @@ nav {
 
 /* Ubah warna background saat mengarahkan mouse */
 .header a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #04AA6D;
+  color: white;
 }
 
 /* Style link active/current */
