@@ -39,9 +39,11 @@ nav {
 
 /* Style link active/current */
 .header a.active {
-  background-color: dodgerblue;
-  color:  #04AA6D;
+  background-color: #04AA6D;
+  color:  white;
 }
+
+
 
 /* Layangkan bagian link ke kanan */
 .header-right {
